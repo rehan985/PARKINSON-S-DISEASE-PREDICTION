@@ -1,4 +1,4 @@
-# PARKINSON'S DISEASE PREDICTION DJANGO APP
+# PARKINSON'S DISEASE PREDICTION 
 
 - This project proposes a hybrid architecture with voice and spiral drawing dataset information analysis to predict Parkinson’s  disease in an easy manner. 
 - It features an easy to use GUI which is built using Django. 
