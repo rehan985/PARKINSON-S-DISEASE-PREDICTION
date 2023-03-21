@@ -33,6 +33,18 @@ Open CMD by searching and Change the directory to where you Clone the Repository
 ![image](https://user-images.githubusercontent.com/61869629/226719550-c9d999a9-04b9-40e9-8abc-ee5c697dcc95.png)
 
 - **Step 4:** <br>
+> pip install Django
+
+![image](https://user-images.githubusercontent.com/61869629/226725983-73433891-263e-4562-ab60-c36881e50133.png)
+
+- **Step 5:** <br>
+
+> python pd_website/manage.py migrate
+
+![image](https://user-images.githubusercontent.com/61869629/226726613-fc5dcea8-7cb9-44b4-be65-f0b89f996162.png)
+
+
+- **Step 6:** <br>
 
 Run the following command on the CMD and Navigate to the web address.
 >  python pd_website/manage.py runserver
